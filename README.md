@@ -16,4 +16,4 @@ External Links
 * [Space X API](http://api.spacex.land/graphql/)
 * [Example of a Demo App](https://github.com/imranhsayed/graphql-react-app/blob/master/GraphQl-SpaceX-Demo.gif)
 * [Build a GraphQL + React app with TypeScript](https://blog.logrocket.com/build-a-graphql-react-app-with-typescript/)
-Video Lecture [Link1](https://www.youtube.com/watch?v=gavh9cTxGWI&ab_channel=PanacloudServerlessSaaSTraining) [Link2](https://www.facebook.com/zeeshanhanif/videos/10224252222558107/) [Link3](https://www.youtube.com/watch?v=oVn0oXOdS58&ab_channel=PanacloudServerlessSaaSTraininginUrdu) [Link4](https://www.facebook.com/zeeshanhanif/videos/10224260317480475/)
+* Video Lecture [Link1](https://www.youtube.com/watch?v=gavh9cTxGWI&ab_channel=PanacloudServerlessSaaSTraining) [Link2](https://www.facebook.com/zeeshanhanif/videos/10224252222558107/) [Link3](https://www.youtube.com/watch?v=oVn0oXOdS58&ab_channel=PanacloudServerlessSaaSTraininginUrdu) [Link4](https://www.facebook.com/zeeshanhanif/videos/10224260317480475/)
